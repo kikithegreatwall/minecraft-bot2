@@ -35,5 +35,5 @@ jobs:
         uses: denoland/deployctl@v1
         with:
           project: "hariyonoriz-minecraft-b-61"
-          entrypoint: "/bot.js"
+          entrypoint: "bot.js"
           root: ""
